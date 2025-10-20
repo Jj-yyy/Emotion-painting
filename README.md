@@ -42,7 +42,3 @@ Click the small round arrow button in the top-left corner to choose a new emotio
 <p align="center">
   <img src="assets/screenshot.png" alt="Emotion Painting screenshot" width="800" />
 </p>
-
-### Notes
-- Image paths are relative to this README and will render correctly on GitHub.
-- Adjust the displayed size by changing the `width` attribute (e.g., `width="160"`).
